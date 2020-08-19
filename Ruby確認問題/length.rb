@@ -1,0 +1,1 @@
+puts "DMM WEBCAMP".length
